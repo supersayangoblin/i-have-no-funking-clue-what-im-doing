@@ -1,0 +1,32 @@
+# Exterminator
+
+```
+| Designers | Implemented | GitHub Links |
+|---|---|---|
+| deltanedas, ChiabusChode | :negative_squared_cross_mark:  No|
+
+## Abstract
+
+A rework of the exterminator gimmick, based on the plot of Terminator 2. A ghost player is assigned as X-14, an exterminator reprogrammed to defend the savior of the future.
+## Goals
+
+A midround antag focused on protecting a random crewmember, ranging from an assistant to the captain, from a horde of NPC/ghost enemies. After 10 minutes, a shutdown code is sent, and all active exterminators on both sides shut down. If the target is gibbed, the horde wins. otherwise, the x-14 wins.
+
+## Gameplay
+
+The X-14 spawns out in space, and has to track down its protection target using its basic equipment. after 3 minutes, the horde will begin to spawn on the target's general position. 
+
+The horde are more akin to simplemobs, with integrated weapons and a bomb function to allow gibbing of the target, which automatically disarms when the unit is sent to crit/killed.
+
+## Components
+### Endoskeleton
+
+The biggest thing with the exterminator, replaces gibbing being a completely bad thing. The exterminator has one organ, the brain, which is what gets control after being gibbed. While you are less flexible as a player you do more damage, letting you pull of a desperate last attempt to kill the target. Once the endoskeleton is gibbed from blunt weaponry, it leaves behind a very valuable nt-800 skull, which looks cool and can be kept by the target or sold for big bucks.
+
+As the endoskeleton can’t hold guns and is slow, it is an easy target for tiders to finish off with bats and crowbars.
+### sole focus AI
+The horde's AI should be limited to targetting only the target, ignoring other players even if they attack or otherwise attempt to delay the horde. Players who choose to play the horde should have a variant of the zombie component to only allow attacking nonliving objects and the target.
+
+## Inspirations
+
+While the original exterminator is based on terminator, this variant of exterminators is based more closely on the plot of Terminator 2.
